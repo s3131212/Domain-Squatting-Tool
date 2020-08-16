@@ -90,8 +90,8 @@ The homoglyph list and qwerty layout are from [dnstwsit](https://github.com/elce
 ## Reference
 The methods used in this project are mentioned in or inspired by the following works:  
 
-Agten, P., Joosen, W., Piessens, F., & Nikiforakis, N. (2015). Seven Months Worth of Mistakes: A Longitudinal Study of Typosquatting Abuse. Proceedings 2015 Network and Distributed System Security Symposium. doi: 10.14722/ndss.2015.23058
-Dinaburg, A. (2011). Bitsquatting: DNS Hijacking without Exploitation. Proceedings of BlackHat Security.
-Kintis, P., Miramirkhani, N., Lever, C., Chen, Y., Romero-Gómez, R., Pitropakis, N., … Antonakakis, M. (2017). Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse. Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. doi: 10.1145/3133956.3134002
+Agten, P., Joosen, W., Piessens, F., & Nikiforakis, N. (2015). Seven Months Worth of Mistakes: A Longitudinal Study of Typosquatting Abuse. Proceedings 2015 Network and Distributed System Security Symposium. doi: 10.14722/ndss.2015.23058  
+Dinaburg, A. (2011). Bitsquatting: DNS Hijacking without Exploitation. Proceedings of BlackHat Security.  
+Kintis, P., Miramirkhani, N., Lever, C., Chen, Y., Romero-Gómez, R., Pitropakis, N., … Antonakakis, M. (2017). Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse. Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. doi: 10.1145/3133956.3134002  
 Nikiforakis, N., Acker, S. V., Meert, W., Desmet, L., Piessens, F., & Joosen, W. (2013). Bitsquatting: Exploiting Bit-flips for Fun, or Profit? Proceedings of the 22nd International Conference on World Wide Web - WWW 13. doi: 10.1145/2488388.2488474
 

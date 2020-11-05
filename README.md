@@ -65,8 +65,7 @@ For example:
 
 ```
 # Don't take keyboard layout into consideration, look for domain squatting of google.com and paypal.com, export results to output.csv
-python3 main.py --qwerty-adj=false --export=output --top-tranco=100 list.txt
-
+python3 main.py --qwerty-adj=false --source=google.com,paypal.com --export=output list.txt
 
 # Take keyboard layout into consideration, look for domain squatting of Tranco top 10
 python3 main.py --top-tranco=10 list.txt

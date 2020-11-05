@@ -69,9 +69,7 @@ python3 main.py --qwerty-adj=false --export=output --top-tranco=100 list.txt
 
 
 # Take keyboard layout into consideration, look for domain squatting of Tranco top 10
-python3 main.py --top-tranco=10 list.tx a blocklist, the lists are located in the function parse_source.
-
-Tranco is a research-oriented top sites ranking, which is considered more robust than Alexa and some other rt
+python3 main.py --top-tranco=10 list.txt
 
 # Take keyboard layout into consideration, look for domain squatting of Tranco top 500
 python3 main.py list.txt
